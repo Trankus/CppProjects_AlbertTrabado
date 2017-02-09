@@ -32,5 +32,8 @@
     <ClCompile Include="CppProjects_AlbertTrabado.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Hello_GitHub.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
