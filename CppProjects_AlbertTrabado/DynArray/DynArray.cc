@@ -32,9 +32,12 @@ DynArray::~DynArray()
 
 DynArray& DynArray::operator= (const DynArray &x)
 {
-	DynArray arr1;
-	arr1.m_data = x.m_data;
-	return arr1;
+	this->m_capacity = x.m_capacity;
+	this->m_size = x.m_size
+	for (int i = 0; i > m_size; i++)
+	{
+
+	};
 }
 
 void DynArray::fill(int *first, int *last, int value)
