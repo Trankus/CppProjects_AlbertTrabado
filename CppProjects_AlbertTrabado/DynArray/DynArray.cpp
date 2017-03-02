@@ -2,7 +2,10 @@
 //
 
 #include "stdafx.h"
-
+#include <iostream>
+#include <string>
+#include <ctime>
+#include "DynArray.hh"
 
 int main()
 {
