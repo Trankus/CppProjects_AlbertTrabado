@@ -26,7 +26,7 @@ DynArray::DynArray(int *arr, size_t size):
 
 DynArray::~DynArray()
 {
-	delete m_data;
+	delete[] m_data;
 	m_data = nullptr;
 }
 
