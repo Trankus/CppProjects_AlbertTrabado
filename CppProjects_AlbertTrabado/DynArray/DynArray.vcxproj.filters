@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\..\Downloads\DynArray.hh">
+    <ClInclude Include="DynArray.hh">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
