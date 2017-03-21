@@ -48,7 +48,7 @@ void DynArray::copy(int *first, int *last, int *dest)
 {
 	while (&first != &last)
 	{
-		dest[first] = m_data[first];
+		//dest[first] = m_data[first];
 		first++;
 	}
 };
