@@ -54,7 +54,6 @@ static Enemy CreateRandomEnemy() // Function that returns a new randmly created 
 		rand() % MAX_LIFE
 	};
 }
-
 int main()
 {
 	srand(static_cast<unsigned>(time(nullptr)));
